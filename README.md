@@ -9,4 +9,4 @@ If you have any further question regarding to the paper, you may contact me at '
 input images：
 ![image](https://github.com/zhangtaxue/DFR/blob/master/test_picture/street1.jpg)![image](https://github.com/zhangtaxue/DFR/blob/master/test_picture/street2.jpg)
 output images:
-![image](https://github.com/zhangtaxue/DFR/blob/master/test_picture/result_street1.jpg)![image](https://github.com/zhangtaxue/DFR/blob/master/test_picture/result_street2.jpg)
+![image](https://github.com/zhangtaxue/DFR/blob/master/result_street1.jpg)![image](https://github.com/zhangtaxue/DFR/blob/master/result_street2.jpg)
