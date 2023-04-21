@@ -4,5 +4,4 @@ If you have any further question regarding to the paper, you may contact me at '
 # Usage
 1, To run the demo, execute run_test.m. 
 
-
 2, Note changing the image path.
