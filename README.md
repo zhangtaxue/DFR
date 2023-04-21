@@ -5,3 +5,4 @@ If you have any further question regarding to the paper, you may contact me at '
 1, To run the demo, execute run_test.m. 
 
 2, Note changing the image path.
+![image](https://github.com/zhangtaxue/DFR/blob/master/test_picture/street1.jpg)
